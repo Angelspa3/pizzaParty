@@ -1,8 +1,8 @@
-# Musaka recipe
+# Salad recipe
 
-- cilantro
-- red pepper
-- lime
-- green onion
-- mozzarella
-- avocado
+- tomato
+- lettuce
+- cucumber
+- feta cheese
+- oregano
+- olive oil
